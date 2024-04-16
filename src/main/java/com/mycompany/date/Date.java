@@ -4,10 +4,7 @@
 
 package com.mycompany.date;
 
-/**
- *
- * @author FAROUK
- */
+
 public class Date {
     int day,month,year;
     public Date(int day, int month, int year) throws DException {
